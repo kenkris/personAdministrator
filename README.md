@@ -1,10 +1,13 @@
 # Person administrator
 
 ## Requirements
-```
+
 ### Nodejs
+```
 https://nodejs.org/en/download/
+```
 ### Vue/CLI
+```
 npm install -g @vue/cli
 ```
 
