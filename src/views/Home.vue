@@ -1,5 +1,5 @@
 <template>
-    <b-container> 
+    <b-container class="top-seperator">
         <b-row class="text-center">
             <b-col>
                 <b-list-group>

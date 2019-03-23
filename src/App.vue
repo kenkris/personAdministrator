@@ -17,4 +17,7 @@
 </template>
 
 <style>
+    .top-seperator{
+        margin-top: 30px;
+    }
 </style>
